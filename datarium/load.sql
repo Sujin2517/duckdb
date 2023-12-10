@@ -1,0 +1,14 @@
+COPY anxiety FROM 'datarium\anxiety.parquet' (FORMAT 'parquet');
+COPY depression FROM 'datarium\depression.parquet' (FORMAT 'parquet');
+COPY genderweight FROM 'datarium\genderweight.parquet' (FORMAT 'parquet');
+COPY headache FROM 'datarium\headache.parquet' (FORMAT 'parquet');
+COPY jobsatisfaction FROM 'datarium\jobsatisfaction.parquet' (FORMAT 'parquet');
+COPY marketing FROM 'datarium\marketing.parquet' (FORMAT 'parquet');
+COPY mice FROM 'datarium\mice.parquet' (FORMAT 'parquet');
+COPY mice2 FROM 'datarium\mice_.parquet' (FORMAT 'parquet');
+COPY performance FROM 'datarium\performance.parquet' (FORMAT 'parquet');
+COPY properties FROM 'datarium\properties.parquet' (FORMAT 'parquet');
+COPY selfesteem FROM 'datarium\selfesteem.parquet' (FORMAT 'parquet');
+COPY selfesteem2 FROM 'datarium\selfesteem_.parquet' (FORMAT 'parquet');
+COPY stress FROM 'datarium\stress.parquet' (FORMAT 'parquet');
+COPY weightloss FROM 'datarium\weightloss.parquet' (FORMAT 'parquet');
