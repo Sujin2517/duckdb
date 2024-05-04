@@ -1,0 +1,26 @@
+Region,Year,Category,Product,Sales,Rating
+North,2017,Clothing,Socks,3700,0.22
+North,2017,Clothing,Shorts,13300,0.56
+North,2017,Components,Handlebars,2300,0.35
+North,2017,Clothing,Jerseys,6700,0.05
+North,2017,Bikes,Road Bikes,3500,0.5
+North,2017,Bikes,Mountain Bikes,3100,0.35
+North,2017,Accessories,Pumps,700,0.1
+North,2017,Clothing,Tights,3300,0.3
+North,2017,Accessories,Helmets,8300,0.99
+North,2017,Accessories,Tires and Tubes,8700,0.9
+North,2017,Accessories,Locks,10000,0.85
+North,2017,Components,Bottom Brackets,500,0.35
+North,2017,Clothing,Vests,3300,0.36
+North,2017,Components,Pedals,800,0.36
+North,2017,Clothing,Gloves,13300,0.5
+North,2017,Accessories,Bike Racks,300,0.05
+North,2017,Components,Saddles,2100,0.49
+North,2017,Components,Brakes,2300,0.34
+North,2017,Components,Wheels,10000,0.66
+North,2017,Bikes,Touring Bikes,500,0.22
+North,2017,Bikes,Cargo Bike,3200,0.48
+North,2017,Clothing,Bib-Shorts,700,0.28
+North,2017,Accessories,Lights,1300,0.9
+North,2017,Clothing,Caps,500,0.5
+North,2017,Components,Chains,8700,0.92
