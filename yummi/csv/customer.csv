@@ -1,0 +1,9 @@
+customerid,fname,lname,gender,address,city,province,countryid,zipcode,tel,firstvisitdt
+AC1,Amy,Crawford,F,,,,UK,,(621) 789-0934,2002-01-07 12:07:00
+CS1,Colleen,Smith,F,478 Euclid Ave.,Cleveland,OH,US,44123,(216) 712-1234,2002-01-08 19:17:00
+PJ1,Pete,Johnson,M,2054 Fairview Ave.,Cleveland,OH,US,44106,,2002-01-04 11:55:00
+PH1,Paul,Hank,M,,,,UK,,(208) 321-3122,2002-01-01 10:51:00
+RH1,Richard,Hank,M,123 West 23rd,Seattle,WA,US,12340,,2002-01-04 18:37:00
+RH2,Rick,Holme,M,,,,TH,10110,,2002-01-13 20:10:00
+ZF1,Any,Female,F,,,,TH,,(277) 872-8899,2002-01-01 11:35:00
+ZM1,Any,Male,M,,,,TH,,(216) 789-2842,2002-01-04 19:22:00

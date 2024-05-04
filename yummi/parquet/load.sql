@@ -1,0 +1,10 @@
+COPY category FROM 'parquet/category.parquet' (FORMAT 'parquet');
+COPY country FROM 'parquet/country.parquet' (FORMAT 'parquet');
+COPY customer FROM 'parquet/customer.parquet' (FORMAT 'parquet');
+COPY dinetype FROM 'parquet/dinetype.parquet' (FORMAT 'parquet');
+COPY menu FROM 'parquet/menu.parquet' (FORMAT 'parquet');
+COPY menuset FROM 'parquet/menuset.parquet' (FORMAT 'parquet');
+COPY orderhdr FROM 'parquet/orderhdr.parquet' (FORMAT 'parquet');
+COPY ordermenudtl FROM 'parquet/ordermenudtl.parquet' (FORMAT 'parquet');
+COPY parameter FROM 'parquet/parameter.parquet' (FORMAT 'parquet');
+COPY payment FROM 'parquet/payment.parquet' (FORMAT 'parquet');

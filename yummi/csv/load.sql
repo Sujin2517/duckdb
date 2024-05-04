@@ -1,0 +1,10 @@
+COPY category FROM 'csv/category.csv' (FORMAT 'csv', header 1, delimiter ',', quote '"');
+COPY country FROM 'csv/country.csv' (FORMAT 'csv', header 1, delimiter ',', quote '"');
+COPY customer FROM 'csv/customer.csv' (FORMAT 'csv', header 1, delimiter ',', quote '"');
+COPY dinetype FROM 'csv/dinetype.csv' (FORMAT 'csv', header 1, delimiter ',', quote '"');
+COPY menu FROM 'csv/menu.csv' (FORMAT 'csv', header 1, delimiter ',', quote '"');
+COPY menuset FROM 'csv/menuset.csv' (FORMAT 'csv', header 1, delimiter ',', quote '"');
+COPY orderhdr FROM 'csv/orderhdr.csv' (FORMAT 'csv', header 1, delimiter ',', quote '"');
+COPY ordermenudtl FROM 'csv/ordermenudtl.csv' (FORMAT 'csv', header 1, delimiter ',', quote '"');
+COPY parameter FROM 'csv/parameter.csv' (FORMAT 'csv', header 1, delimiter ',', quote '"');
+COPY payment FROM 'csv/payment.csv' (FORMAT 'csv', header 1, delimiter ',', quote '"');

@@ -1,0 +1,2 @@
+id,restaurantname,address,city,province,zipcode,country,tel,fax,email,contactperson,vatrate,taxid,area,rental,weburl,webnohit,weblogo,webimageurl,webcss
+1,Yummi,1234 Sukumvit,Wattana,Bangkok,10110,Thailand,02-245-6412,02-245-6413,yummi@yummi.com,Prasert Kanawattanachai,0.07,3178093283,350,200,http://www.db-yummi.com,0,0x6C6F676F2E676966,../images/yummilogo.png,http://db-yummi.com/styles.css
