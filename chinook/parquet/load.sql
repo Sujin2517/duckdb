@@ -1,0 +1,11 @@
+COPY album FROM 'parquet/album.parquet' (FORMAT 'parquet');
+COPY artist FROM 'parquet/artist.parquet' (FORMAT 'parquet');
+COPY customer FROM 'parquet/customer.parquet' (FORMAT 'parquet');
+COPY employee FROM 'parquet/employee.parquet' (FORMAT 'parquet');
+COPY genre FROM 'parquet/genre.parquet' (FORMAT 'parquet');
+COPY invoice FROM 'parquet/invoice.parquet' (FORMAT 'parquet');
+COPY invoiceline FROM 'parquet/invoiceline.parquet' (FORMAT 'parquet');
+COPY mediatype FROM 'parquet/mediatype.parquet' (FORMAT 'parquet');
+COPY playlist FROM 'parquet/playlist.parquet' (FORMAT 'parquet');
+COPY playlisttrack FROM 'parquet/playlisttrack.parquet' (FORMAT 'parquet');
+COPY track FROM 'parquet/track.parquet' (FORMAT 'parquet');
